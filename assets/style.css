@@ -1,0 +1,18 @@
+html {
+  background-image: url("../assets/backgroundSnake.jpg");
+  background-size: 50% 70%;
+  
+  /* background-size: contain; */
+
+}
+
+body{
+  height: 95vh;
+  width: 95vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  color: rgb(218, 255, 218);
+}
